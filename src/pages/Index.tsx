@@ -280,7 +280,7 @@ const Index = () => {
                 <Icon name="Store" size={24} className="text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                SportKitchen
+                Нияра
               </span>
             </div>
             
@@ -335,7 +335,7 @@ const Index = () => {
 
       <footer className="bg-muted mt-16 py-8 border-t">
         <div className="max-w-7xl mx-auto px-4 text-center text-muted-foreground">
-          <p>© 2024 SportKitchen. Все права защищены.</p>
+          <p>© 2024 Нияра. Все права защищены.</p>
         </div>
       </footer>
     </div>
